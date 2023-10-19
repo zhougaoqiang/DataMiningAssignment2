@@ -1,0 +1,13 @@
+filename,type,min support,trans,items,time
+Bakery-formatted-number.csv,APRIORI,0.01,9465,20507,1.560098648071289
+Bakery-formatted-number.csv,APRIORI,0.05,9465,20507,0.1053917407989502
+Groceries-formatted-number.csv,APRIORI,0.01,3898,38765,110.16841197013855
+Groceries-formatted-number.csv,APRIORI,0.05,3898,38765,6.056600093841553
+Market_Basket-number.csv,APRIORI,0.01,7501,29363,10.690747499465942
+Market_Basket-number.csv,APRIORI,0.05,7501,29363,0.9116387367248535
+Online_Retail-formatted-code-number.csv,APRIORI,0.01,25900,541909,5955.928698062897
+Online_Retail-formatted-code-number.csv,APRIORI,0.05,25900,541909,1.8909926414489746
+RetailScanner-formatted-category-number.csv,APRIORI,0.01,64682,131706,25.47213864326477
+RetailScanner-formatted-category-number.csv,APRIORI,0.05,64682,131706,0.4640657901763916
+TVShows-number.csv,APRIORI,0.01,9690,42772,22.613341331481934
+TVShows-number.csv,APRIORI,0.05,9690,42772,1.6733283996582031

@@ -1,0 +1,38 @@
+orignal dataset information: 
+
+########################################
+Bakery:
+    item: 94
+    transactions: 9465
+    total items: 20507
+
+#######################################
+TVShow: (using category instead of item) item is too much
+    item: 156
+    transactions: 9690
+    total items: 42772
+
+#######################################
+Groceries:
+    item: 167
+    transactions: 3898
+    total items: 38765
+
+#######################################
+Market_Basket:
+    item: 119
+    transactions: 7501
+    total items: 29363
+
+#######################################
+Online_Retail: (using code instead of using description)
+    item: 4070
+    transactions: 25900
+    total items: 541909
+
+#######################################
+RetailScanner: (using category instead of item) item is too much
+    item: 188
+    transactions: 64682
+    total items: 131706
+

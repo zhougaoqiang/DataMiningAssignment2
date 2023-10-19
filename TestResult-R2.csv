@@ -1,0 +1,153 @@
+filename,type,min support,trans,items,len of frequentItemset,time
+Data/Bakery-formatted-number-TOP10.csv,APRIORI,0.01,5000,7975,37,0.13325190544128418
+Data/Bakery-formatted-number-TOP10.csv,APRIORI,0.05,5000,7975,13,0.05702853202819824
+Data/Bakery-formatted-number-TOP20.csv,APRIORI,0.01,5000,8825,49,0.31385374069213867
+Data/Bakery-formatted-number-TOP20.csv,APRIORI,0.05,5000,8825,10,0.0315394401550293
+Data/Bakery-formatted-number-TOP30.csv,APRIORI,0.01,5000,9139,54,0.4396355152130127
+Data/Bakery-formatted-number-TOP30.csv,APRIORI,0.05,5000,9139,9,0.03211832046508789
+Data/Bakery-formatted-number-TOP40.csv,APRIORI,0.01,5000,9438,57,0.6538059711456299
+Data/Bakery-formatted-number-TOP40.csv,APRIORI,0.05,5000,9438,9,0.03269457817077637
+Data/Market_Basket-number-TOP10.csv,APRIORI,0.01,5000,10083,97,0.27779722213745117
+Data/Market_Basket-number-TOP10.csv,APRIORI,0.05,5000,10083,19,0.0664358139038086
+Data/Market_Basket-number-TOP20.csv,APRIORI,0.01,5000,12851,199,1.3868598937988281
+Data/Market_Basket-number-TOP20.csv,APRIORI,0.05,5000,12851,24,0.325305700302124
+Data/Market_Basket-number-TOP30.csv,APRIORI,0.01,5000,15156,258,2.785482406616211
+Data/Market_Basket-number-TOP30.csv,APRIORI,0.05,5000,15156,32,0.6787190437316895
+Data/Market_Basket-number-TOP40.csv,APRIORI,0.01,5000,16366,268,3.606743574142456
+Data/Market_Basket-number-TOP40.csv,APRIORI,0.05,5000,16366,31,0.6580150127410889
+Data/Online_Retail-formatted-code-number-TOP10.csv,APRIORI,0.01,5000,8813,99,0.32423853874206543
+Data/Online_Retail-formatted-code-number-TOP10.csv,APRIORI,0.05,5000,8813,13,0.0722494125366211
+Data/Online_Retail-formatted-code-number-TOP20.csv,APRIORI,0.01,5000,11630,282,1.6284735202789307
+Data/Online_Retail-formatted-code-number-TOP20.csv,APRIORI,0.05,5000,11630,21,0.2538168430328369
+Data/Online_Retail-formatted-code-number-TOP30.csv,APRIORI,0.01,5000,14383,491,4.56241774559021
+Data/Online_Retail-formatted-code-number-TOP30.csv,APRIORI,0.05,5000,14383,29,0.5819692611694336
+Data/Online_Retail-formatted-code-number-TOP40.csv,APRIORI,0.01,5000,16342,702,8.099815607070923
+Data/Online_Retail-formatted-code-number-TOP40.csv,APRIORI,0.05,5000,16342,35,0.9579257965087891
+Data/RetailScanner-formatted-category-number-TOP10.csv,APRIORI,0.01,5000,6806,28,0.07324409484863281
+Data/RetailScanner-formatted-category-number-TOP10.csv,APRIORI,0.05,5000,6806,11,0.048804283142089844
+Data/RetailScanner-formatted-category-number-TOP20.csv,APRIORI,0.01,5000,8093,63,0.3923003673553467
+Data/RetailScanner-formatted-category-number-TOP20.csv,APRIORI,0.05,5000,8093,16,0.15514636039733887
+Data/RetailScanner-formatted-category-number-TOP30.csv,APRIORI,0.01,5000,8485,73,0.7404677867889404
+Data/RetailScanner-formatted-category-number-TOP30.csv,APRIORI,0.05,5000,8485,12,0.09501338005065918
+Data/RetailScanner-formatted-category-number-TOP40.csv,APRIORI,0.01,5000,8925,79,1.2567191123962402
+Data/RetailScanner-formatted-category-number-TOP40.csv,APRIORI,0.05,5000,8925,10,0.07140183448791504
+Data/Bakery-formatted-number-TOP10.csv,BRUTE FORCE,0.01,5000,7975,37,0.5220067501068115
+Data/Bakery-formatted-number-TOP20.csv,BRUTE FORCE,0.01,5000,8825,49,574.8033516407013
+Data/Market_Basket-number-TOP10.csv,BRUTE FORCE,0.01,5000,10083,97,0.6018645763397217
+Data/Market_Basket-number-TOP20.csv,BRUTE FORCE,0.01,5000,12851,199,582.5455050468445
+Data/Online_Retail-formatted-code-number-TOP10.csv,BRUTE FORCE,0.01,5000,8813,99,0.5970685482025146
+Data/Online_Retail-formatted-code-number-TOP20.csv,BRUTE FORCE,0.01,5000,11630,282,584.8391044139862
+Data/RetailScanner-formatted-category-number-TOP10.csv,BRUTE FORCE,0.01,5000,6806,28,0.576005220413208
+Data/RetailScanner-formatted-category-number-TOP20.csv,BRUTE FORCE,0.01,5000,8093,63,578.6912446022034
+Data/Bakery-formatted-number-TOP10.csv,APRIORI,0.01,5000,7975,37,0.10456275939941406
+Data/Bakery-formatted-number-TOP10.csv,APRIORI,0.05,5000,7975,13,0.023067951202392578
+Data/Bakery-formatted-number-TOP20.csv,APRIORI,0.01,5000,8825,49,0.4131433963775635
+Data/Bakery-formatted-number-TOP20.csv,APRIORI,0.05,5000,8825,10,0.044527530670166016
+Data/Bakery-formatted-number-TOP30.csv,APRIORI,0.01,5000,9139,54,0.6082615852355957
+Data/Bakery-formatted-number-TOP30.csv,APRIORI,0.05,5000,9139,9,0.044855594635009766
+Data/Bakery-formatted-number-TOP40.csv,APRIORI,0.01,5000,9438,57,0.705897331237793
+Data/Bakery-formatted-number-TOP40.csv,APRIORI,0.05,5000,9438,9,0.045294761657714844
+Data/Market_Basket-number-TOP10.csv,APRIORI,0.01,5000,10083,97,0.3306736946105957
+Data/Market_Basket-number-TOP10.csv,APRIORI,0.05,5000,10083,19,0.08865523338317871
+Data/Market_Basket-number-TOP20.csv,APRIORI,0.01,5000,12851,199,1.4513814449310303
+Data/Market_Basket-number-TOP20.csv,APRIORI,0.05,5000,12851,24,0.33812928199768066
+Data/Market_Basket-number-TOP30.csv,APRIORI,0.01,5000,15156,258,2.813602924346924
+Data/Market_Basket-number-TOP30.csv,APRIORI,0.05,5000,15156,32,0.6919674873352051
+Data/Market_Basket-number-TOP40.csv,APRIORI,0.01,5000,16366,268,3.5936145782470703
+Data/Market_Basket-number-TOP40.csv,APRIORI,0.05,5000,16366,31,0.6715636253356934
+Data/Online_Retail-formatted-code-number-TOP10.csv,APRIORI,0.01,5000,8813,99,0.30533552169799805
+Data/Online_Retail-formatted-code-number-TOP10.csv,APRIORI,0.05,5000,8813,13,0.07270097732543945
+Data/Online_Retail-formatted-code-number-TOP20.csv,APRIORI,0.01,5000,11630,282,1.6463873386383057
+Data/Online_Retail-formatted-code-number-TOP20.csv,APRIORI,0.05,5000,11630,21,0.25591230392456055
+Data/Online_Retail-formatted-code-number-TOP30.csv,APRIORI,0.01,5000,14383,491,4.574180603027344
+Data/Online_Retail-formatted-code-number-TOP30.csv,APRIORI,0.05,5000,14383,29,0.5829384326934814
+Data/Online_Retail-formatted-code-number-TOP40.csv,APRIORI,0.01,5000,16342,702,8.185692548751831
+Data/Online_Retail-formatted-code-number-TOP40.csv,APRIORI,0.05,5000,16342,35,0.9910140037536621
+Data/RetailScanner-formatted-category-number-TOP10.csv,APRIORI,0.01,5000,6806,28,0.09987878799438477
+Data/RetailScanner-formatted-category-number-TOP10.csv,APRIORI,0.05,5000,6806,11,0.06452250480651855
+Data/RetailScanner-formatted-category-number-TOP20.csv,APRIORI,0.01,5000,8093,63,0.3837738037109375
+Data/RetailScanner-formatted-category-number-TOP20.csv,APRIORI,0.05,5000,8093,16,0.15448403358459473
+Data/RetailScanner-formatted-category-number-TOP30.csv,APRIORI,0.01,5000,8485,73,0.7414085865020752
+Data/RetailScanner-formatted-category-number-TOP30.csv,APRIORI,0.05,5000,8485,12,0.10015225410461426
+Data/RetailScanner-formatted-category-number-TOP40.csv,APRIORI,0.01,5000,8925,79,1.2708079814910889
+Data/RetailScanner-formatted-category-number-TOP40.csv,APRIORI,0.05,5000,8925,10,0.07073807716369629
+Data/Bakery-formatted-number-TOP10.csv,BRUTE FORCE,0.01,5000,7975,37,0.6058070659637451
+Data/Bakery-formatted-number-TOP20.csv,BRUTE FORCE,0.01,5000,8825,49,601.7761731147766
+Data/Market_Basket-number-TOP10.csv,BRUTE FORCE,0.01,5000,10083,97,0.598118782043457
+Data/Market_Basket-number-TOP20.csv,BRUTE FORCE,0.01,5000,12851,199,565.9958395957947
+Data/Online_Retail-formatted-code-number-TOP10.csv,BRUTE FORCE,0.01,5000,8813,99,0.5956180095672607
+Data/Online_Retail-formatted-code-number-TOP20.csv,BRUTE FORCE,0.01,5000,11630,282,574.4181568622589
+Data/RetailScanner-formatted-category-number-TOP10.csv,BRUTE FORCE,0.01,5000,6806,28,0.5860097408294678
+Data/RetailScanner-formatted-category-number-TOP20.csv,BRUTE FORCE,0.01,5000,8093,63,568.8626792430878
+Data/Bakery-formatted-number-TOP10.csv,APRIORI,0.01,5000,7975,37,0.1545102596282959
+Data/Bakery-formatted-number-TOP10.csv,APRIORI,0.05,5000,7975,13,0.0590822696685791
+Data/Bakery-formatted-number-TOP20.csv,APRIORI,0.01,5000,8825,49,0.4371495246887207
+Data/Bakery-formatted-number-TOP20.csv,APRIORI,0.05,5000,8825,10,0.04677248001098633
+Data/Bakery-formatted-number-TOP30.csv,APRIORI,0.01,5000,9139,54,0.6229660511016846
+Data/Bakery-formatted-number-TOP30.csv,APRIORI,0.05,5000,9139,9,0.04740166664123535
+Data/Bakery-formatted-number-TOP40.csv,APRIORI,0.01,5000,9438,57,0.727304220199585
+Data/Bakery-formatted-number-TOP40.csv,APRIORI,0.05,5000,9438,9,0.04630756378173828
+Data/Market_Basket-number-TOP10.csv,APRIORI,0.01,5000,10083,97,0.33508729934692383
+Data/Market_Basket-number-TOP10.csv,APRIORI,0.05,5000,10083,19,0.09166622161865234
+Data/Market_Basket-number-TOP20.csv,APRIORI,0.01,5000,12851,199,1.038719892501831
+Data/Market_Basket-number-TOP20.csv,APRIORI,0.05,5000,12851,24,0.3394443988800049
+Data/Market_Basket-number-TOP30.csv,APRIORI,0.01,5000,15156,258,2.8400397300720215
+Data/Market_Basket-number-TOP30.csv,APRIORI,0.05,5000,15156,32,0.7020547389984131
+Data/Market_Basket-number-TOP40.csv,APRIORI,0.01,5000,16366,268,3.6553473472595215
+Data/Market_Basket-number-TOP40.csv,APRIORI,0.05,5000,16366,31,0.5464353561401367
+Data/Online_Retail-formatted-code-number-TOP10.csv,APRIORI,0.01,5000,8813,99,0.33507704734802246
+Data/Online_Retail-formatted-code-number-TOP10.csv,APRIORI,0.05,5000,8813,13,0.05755138397216797
+Data/Online_Retail-formatted-code-number-TOP20.csv,APRIORI,0.01,5000,11630,282,1.6783156394958496
+Data/Online_Retail-formatted-code-number-TOP20.csv,APRIORI,0.05,5000,11630,21,0.2596886157989502
+Data/Online_Retail-formatted-code-number-TOP30.csv,APRIORI,0.01,5000,14383,491,4.66357421875
+Data/Online_Retail-formatted-code-number-TOP30.csv,APRIORI,0.05,5000,14383,29,0.5903775691986084
+Data/Online_Retail-formatted-code-number-TOP40.csv,APRIORI,0.01,5000,16342,702,8.317476511001587
+Data/Online_Retail-formatted-code-number-TOP40.csv,APRIORI,0.05,5000,16342,35,0.9969668388366699
+Data/RetailScanner-formatted-category-number-TOP10.csv,APRIORI,0.01,5000,6806,28,0.10207724571228027
+Data/RetailScanner-formatted-category-number-TOP10.csv,APRIORI,0.05,5000,6806,11,0.06504154205322266
+Data/RetailScanner-formatted-category-number-TOP20.csv,APRIORI,0.01,5000,8093,63,0.39078450202941895
+Data/RetailScanner-formatted-category-number-TOP20.csv,APRIORI,0.05,5000,8093,16,0.15666937828063965
+Data/RetailScanner-formatted-category-number-TOP30.csv,APRIORI,0.01,5000,8485,73,0.743201732635498
+Data/RetailScanner-formatted-category-number-TOP30.csv,APRIORI,0.05,5000,8485,12,0.09879112243652344
+Data/RetailScanner-formatted-category-number-TOP40.csv,APRIORI,0.01,5000,8925,79,1.2889742851257324
+Data/RetailScanner-formatted-category-number-TOP40.csv,APRIORI,0.05,5000,8925,10,0.07127690315246582
+Data/Bakery-formatted-number-TOP10.csv,BRUTE FORCE,0.01,5000,7975,37,0.5926480293273926
+Data/Bakery-formatted-number-TOP20.csv,BRUTE FORCE,0.01,5000,8825,49,565.0176215171814
+Data/Market_Basket-number-TOP10.csv,BRUTE FORCE,0.01,5000,10083,97,0.6329336166381836
+Data/Market_Basket-number-TOP20.csv,BRUTE FORCE,0.01,5000,12851,199,589.9476535320282
+Data/Online_Retail-formatted-code-number-TOP10.csv,BRUTE FORCE,0.01,5000,8813,99,0.5995724201202393
+Data/Online_Retail-formatted-code-number-TOP20.csv,BRUTE FORCE,0.01,5000,11630,282,560.03178191185
+Data/RetailScanner-formatted-category-number-TOP10.csv,BRUTE FORCE,0.01,5000,6806,28,0.5594041347503662
+Data/RetailScanner-formatted-category-number-TOP20.csv,BRUTE FORCE,0.01,5000,8093,63,542.4805450439453
+Data/Bakery-formatted-number-TOP10.csv,APRIORI-LIB,0.01,5000,7975,37,0.01642012596130371
+Data/Bakery-formatted-number-TOP10.csv,APRIORI-LIB,0.05,5000,7975,13,0.01371622085571289
+Data/Bakery-formatted-number-TOP20.csv,APRIORI-LIB,0.01,5000,8825,49,0.018941402435302734
+Data/Bakery-formatted-number-TOP20.csv,APRIORI-LIB,0.05,5000,8825,10,0.014793634414672852
+Data/Bakery-formatted-number-TOP30.csv,APRIORI-LIB,0.01,5000,9139,54,0.02055525779724121
+Data/Bakery-formatted-number-TOP30.csv,APRIORI-LIB,0.05,5000,9139,9,0.01436161994934082
+Data/Bakery-formatted-number-TOP40.csv,APRIORI-LIB,0.01,5000,9438,57,0.021549224853515625
+Data/Bakery-formatted-number-TOP40.csv,APRIORI-LIB,0.05,5000,9438,9,0.015338659286499023
+Data/Market_Basket-number-TOP10.csv,APRIORI-LIB,0.01,5000,10083,97,0.01949286460876465
+Data/Market_Basket-number-TOP10.csv,APRIORI-LIB,0.05,5000,10083,19,0.016272306442260742
+Data/Market_Basket-number-TOP20.csv,APRIORI-LIB,0.01,5000,12851,199,0.035529375076293945
+Data/Market_Basket-number-TOP20.csv,APRIORI-LIB,0.05,5000,12851,24,0.019224166870117188
+Data/Market_Basket-number-TOP30.csv,APRIORI-LIB,0.01,5000,15156,258,0.07748603820800781
+Data/Market_Basket-number-TOP30.csv,APRIORI-LIB,0.05,5000,15156,32,0.022332191467285156
+Data/Market_Basket-number-TOP40.csv,APRIORI-LIB,0.01,5000,16366,268,0.08468508720397949
+Data/Market_Basket-number-TOP40.csv,APRIORI-LIB,0.05,5000,16366,31,0.024427175521850586
+Data/Online_Retail-formatted-code-number-TOP10.csv,APRIORI-LIB,0.01,5000,8813,99,0.0181124210357666
+Data/Online_Retail-formatted-code-number-TOP10.csv,APRIORI-LIB,0.05,5000,8813,13,0.015376567840576172
+Data/Online_Retail-formatted-code-number-TOP20.csv,APRIORI-LIB,0.01,5000,11630,282,0.03616046905517578
+Data/Online_Retail-formatted-code-number-TOP20.csv,APRIORI-LIB,0.05,5000,11630,21,0.01775050163269043
+Data/Online_Retail-formatted-code-number-TOP30.csv,APRIORI-LIB,0.01,5000,14383,491,0.0730891227722168
+Data/Online_Retail-formatted-code-number-TOP30.csv,APRIORI-LIB,0.05,5000,14383,29,0.022051334381103516
+Data/Online_Retail-formatted-code-number-TOP40.csv,APRIORI-LIB,0.01,5000,16342,702,0.14873003959655762
+Data/Online_Retail-formatted-code-number-TOP40.csv,APRIORI-LIB,0.05,5000,16342,35,0.024609804153442383
+Data/RetailScanner-formatted-category-number-TOP10.csv,APRIORI-LIB,0.01,5000,6806,28,0.01202249526977539
+Data/RetailScanner-formatted-category-number-TOP10.csv,APRIORI-LIB,0.05,5000,6806,11,0.010640144348144531
+Data/RetailScanner-formatted-category-number-TOP20.csv,APRIORI-LIB,0.01,5000,8093,63,0.017876148223876953
+Data/RetailScanner-formatted-category-number-TOP20.csv,APRIORI-LIB,0.05,5000,8093,16,0.012520551681518555
+Data/RetailScanner-formatted-category-number-TOP30.csv,APRIORI-LIB,0.01,5000,8485,73,0.019987821578979492
+Data/RetailScanner-formatted-category-number-TOP30.csv,APRIORI-LIB,0.05,5000,8485,12,0.013533353805541992
+Data/RetailScanner-formatted-category-number-TOP40.csv,APRIORI-LIB,0.01,5000,8925,79,0.047046661376953125
+Data/RetailScanner-formatted-category-number-TOP40.csv,APRIORI-LIB,0.05,5000,8925,10,0.013751506805419922
